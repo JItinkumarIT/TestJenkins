@@ -53,7 +53,6 @@
                   "maximumError": "4kb"
                 }
               ],
-              "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
               "extractCss": true,
